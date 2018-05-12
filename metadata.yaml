@@ -1,0 +1,31 @@
+_repo: Parnaso-Filipino--13-Antolog-a-de-Poetas-del-Archipelago-Magellanico_16201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martín de la Cámara, Eduardo
+    aliases:
+    - De la Cámara, Eduardo Martín
+    - Martin de la Camara, Eduardo
+    - Cámara, Eduardo Martín de la
+    - La Cámara, Eduardo Martín de
+    birthdate: 1873
+    gutenberg_agent_id: '6535'
+    url: http://www.gutenberg.org/2009/agents/6535
+description: ''
+gutenberg_issued: '2005-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16201'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Biography'
+- !lcsh 'Philippine poetry (Spanish)'
+- !lcc 'PQ'
+title: "Parnaso Filipino\r\nAntología de Poetas del Archipelago Magellanico"
+url: http://www.gutenberg.org/ebooks/16201
